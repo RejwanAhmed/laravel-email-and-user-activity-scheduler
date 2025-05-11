@@ -8,8 +8,8 @@ This is a Laravel 12 application that sends a mail to a predefined user (in mail
 
 ```bash
 # Clone the repository
-git clone https://github.com/RejwanAhmed/laravel-quote-sender-using-jobs-and-queues.git
-cd laravel-quote-sender-using-jobs-and-queues
+git clone https://github.com/RejwanAhmed/laravel-email-and-user-activity-scheduler.git
+cd laravel-email-and-user-activity-scheduler
 
 # Install backend dependencies
 composer install
